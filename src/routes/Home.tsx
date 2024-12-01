@@ -7,15 +7,18 @@ import {
   List,
   Paper,
   Space,
+  Text,
   ThemeIcon,
   Title,
   useMantineTheme,
 } from "@mantine/core";
 import { IconBarrierBlock, IconLink } from "@tabler/icons-react";
 import { NavLink } from "react-router";
+import { useDocumentTitle } from "../utils/hooks";
 
 export default function Home() {
   const theme = useMantineTheme();
+  useDocumentTitle("Home");
 
   return (
     <>
@@ -26,9 +29,12 @@ export default function Home() {
         title="Site under construction"
         icon={<IconBarrierBlock />}
       >
-        This site is a work in progress. For now, it only serves as a repository
+        This site is a work in progress. For now, it only serves as a{" "}
+        <Text fw={700} size="sm" span>
+          repository
+        </Text>{" "}
         for essential legal and technical documentation for our apps. Check back
-        later for updates.
+        later for a more complete version.
       </Alert>
       <Space h="75" />
       <Paper shadow="xs" p="xl">
@@ -57,6 +63,9 @@ export default function Home() {
           >
             <List.Item c={theme.colors.gray[5]}>
               Atlassian Marketplace listing (coming soon)
+            </List.Item>
+            <List.Item>
+              <NavLink to="/ucpc/docs">Documentation</NavLink>
             </List.Item>
             <List.Item>
               <NavLink to="/eula">EULA</NavLink>

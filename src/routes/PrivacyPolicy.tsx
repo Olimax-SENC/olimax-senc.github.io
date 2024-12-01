@@ -1,7 +1,10 @@
 import { Anchor, List, Text, Title } from "@mantine/core";
 import { Link } from "react-router";
+import { useDocumentTitle } from "../utils/hooks";
 
 export default function PrivacyPolicy() {
+  useDocumentTitle("Privacy Policy");
+
   return (
     <>
       <Title my="xl">Privacy Policy</Title>

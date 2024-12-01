@@ -1,6 +1,9 @@
 import { Anchor, List, Text, Title } from "@mantine/core";
+import { useDocumentTitle } from "../utils/hooks";
 
 export default function Security() {
+  useDocumentTitle("Security");
+
   return (
     <>
       <Title my="xl">Security</Title>

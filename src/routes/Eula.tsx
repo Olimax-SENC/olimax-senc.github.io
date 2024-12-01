@@ -1,6 +1,9 @@
 import { Anchor, Text, Title } from "@mantine/core";
+import { useDocumentTitle } from "../utils/hooks";
 
 export default function Eula() {
+  useDocumentTitle("EULA");
+
   return (
     <>
       <Title my="xl">Olimax Atlassian add-ons EULA</Title>
