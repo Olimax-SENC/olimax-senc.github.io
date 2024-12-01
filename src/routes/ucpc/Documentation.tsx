@@ -75,7 +75,7 @@ export default function Documentation() {
       <Center>
         <AspectRatio ratio={12.26 / 8} maw="500">
           <img
-            src="/src/public/img/ucpc_docs/docs1.png"
+            src="/img/ucpc_docs/docs1.png"
             alt="Universal Capacity Planner Connector documentation step 1"
           />
         </AspectRatio>
@@ -98,7 +98,7 @@ export default function Documentation() {
       <Center>
         <AspectRatio ratio={16 / 12.65} maw="500">
           <img
-            src="/src/public/img/ucpc_docs/docs2.png"
+            src="/img/ucpc_docs/docs2.png"
             alt="Universal Capacity Planner Connector documentation step 2"
           />
         </AspectRatio>
@@ -110,7 +110,7 @@ export default function Documentation() {
       <Center>
         <AspectRatio ratio={16.51 / 9.99} maw="500">
           <img
-            src="/src/public/img/ucpc_docs/docs3.png"
+            src="/img/ucpc_docs/docs3.png"
             alt="Universal Capacity Planner Connector documentation step 3"
           />
         </AspectRatio>
@@ -130,7 +130,7 @@ export default function Documentation() {
       <Center>
         <AspectRatio ratio={17.09 / 9.35} maw="500">
           <img
-            src="/src/public/img/ucpc_docs/docs4.png"
+            src="/img/ucpc_docs/docs4.png"
             alt="Universal Capacity Planner Connector documentation step 4"
           />
         </AspectRatio>
@@ -169,7 +169,7 @@ export default function Documentation() {
       <Center>
         <AspectRatio ratio={18.13 / 9.84} maw="500">
           <img
-            src="/src/public/img/ucpc_docs/docs5.png"
+            src="/img/ucpc_docs/docs5.png"
             alt="Universal Capacity Planner Connector documentation step 5"
           />
         </AspectRatio>
@@ -199,7 +199,7 @@ export default function Documentation() {
       <Center>
         <AspectRatio ratio={17.68 / 8.76} maw="500">
           <img
-            src="/src/public/img/ucpc_docs/docs6.png"
+            src="/img/ucpc_docs/docs6.png"
             alt="Universal Capacity Planner Connector documentation step 6"
           />
         </AspectRatio>
@@ -212,7 +212,7 @@ export default function Documentation() {
       <Center>
         <AspectRatio ratio={16.89 / 10.36} maw="500">
           <img
-            src="/src/public/img/ucpc_docs/docs7.png"
+            src="/img/ucpc_docs/docs7.png"
             alt="Universal Capacity Planner Connector documentation step 7"
           />
         </AspectRatio>
@@ -225,7 +225,7 @@ export default function Documentation() {
       <Center>
         <AspectRatio ratio={17.57 / 10.88} maw="500">
           <img
-            src="/src/public/img/ucpc_docs/docs8.png"
+            src="/img/ucpc_docs/docs8.png"
             alt="Universal Capacity Planner Connector documentation step 8"
           />
         </AspectRatio>
@@ -238,7 +238,7 @@ export default function Documentation() {
       <Center>
         <AspectRatio ratio={18.85 / 10.73} maw="500">
           <img
-            src="/src/public/img/ucpc_docs/docs9.png"
+            src="/img/ucpc_docs/docs9.png"
             alt="Universal Capacity Planner Connector documentation step 9"
           />
         </AspectRatio>
@@ -256,7 +256,7 @@ export default function Documentation() {
       <Center>
         <AspectRatio ratio={17.16 / 11.81} maw="500">
           <img
-            src="/src/public/img/ucpc_docs/docs10.png"
+            src="/img/ucpc_docs/docs10.png"
             alt="Universal Capacity Planner Connector documentation step 10"
           />
         </AspectRatio>
@@ -285,7 +285,7 @@ export default function Documentation() {
       <Center>
         <AspectRatio ratio={17.7 / 12.21} maw="500">
           <img
-            src="/src/public/img/ucpc_docs/docs11.png"
+            src="/img/ucpc_docs/docs11.png"
             alt="Universal Capacity Planner Connector documentation step 11"
           />
         </AspectRatio>

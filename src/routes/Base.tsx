@@ -17,7 +17,7 @@ export default function Base() {
           <Link to="/">
             <AspectRatio ratio={650 / 191} maw="180">
               <img
-                src="/src/public/img/olimax_logo_alt.png"
+                src="/img/olimax_logo_alt.png"
                 alt="Olimax logo"
               />
             </AspectRatio>

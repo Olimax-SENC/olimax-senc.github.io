@@ -43,7 +43,7 @@ export default function Home() {
             <Image
               radius="100%"
               bd="1px solid #000"
-              src="./src/public/img/ucpc_logo.jpg"
+              src="/img/ucpc_logo.jpg"
               alt="Universal Capacity Planner Connector logo"
             />
           </AspectRatio>
