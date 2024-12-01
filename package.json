@@ -1,5 +1,11 @@
 {
 	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"serve": "vite preview",
+		"upload": "vite build && gh-pages -d dist --cname www.olimax.ca"
+	},
 	"devDependencies": {
 		"@biomejs/biome": "^1.9.4",
 		"@mantine/core": "^7.14.3",
