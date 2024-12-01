@@ -1,0 +1,23 @@
+{
+	"type": "module",
+	"devDependencies": {
+		"@biomejs/biome": "^1.9.4",
+		"@mantine/core": "^7.14.3",
+		"@mantine/hooks": "^7.14.3",
+		"@tabler/icons-react": "^3.23.0",
+		"@tsconfig/vite-react": "^3.4.0",
+		"@types/react": "^18.3.12",
+		"@types/react-dom": "^18.3.1",
+		"@vitejs/plugin-react": "^4.3.4",
+		"gh-pages": "^6.2.0",
+		"postcss": "^8.4.49",
+		"postcss-preset-mantine": "^1.17.0",
+		"postcss-simple-vars": "^7.0.1",
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1",
+		"react-router": "^7.0.1",
+		"typescript": "^5.7.2",
+		"vite": "^6.0.1"
+	},
+	"packageManager": "pnpm@9.14.4+sha512.c8180b3fbe4e4bca02c94234717896b5529740a6cbadf19fa78254270403ea2f27d4e1d46a08a0f56c89b63dc8ebfd3ee53326da720273794e6200fcf0d184ab"
+}
